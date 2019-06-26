@@ -15,6 +15,19 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
+    },
+    {
+      "docset_name": "testzhilia2",
+      "build_source_folder": "testzhilia2",
+      "build_output_subfolder": "testzhilia2",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [],
